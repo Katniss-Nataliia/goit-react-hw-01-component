@@ -7,8 +7,6 @@ justify-content:center;
 export const TransactionTable = styled.table`
 margin:40px;
 table-layout: auto;
-
-
 `
 
 export const HeaderElement = styled.th`
